@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <plurals name="search_results">
+        <item quantity="one">%1$d kata ditemukan untuk \"%2$s\": </item>
+        <item quantity="other">%1$d kata ditemukan untuk \"%2$s\": </item>
+    </plurals>
+
+    <string name="app_name">Lampung - Indonesia Dict</string>
+    <string name="menu_search">Pencarian</string>
+    <string name="no_results">Tidak ditemukan terjemahan untuk \"%s\"</string>
+    <string name="search_hint">Cari terjemahan</string>
+    <string name="search_instructions">Gunakan Search Box pada Action Bar untuk memasukkan kata</string>
+    <string name="search_label">Pencarian</string>
+    <string name="settings_description">Arti Kata</string>
+    <string name="trans_dialek_a">Bahasa Lampung Dialek A :</string>
+    <string name="trans_dialek_o">Bahasa Lampung Dialek O :</string>
+    <string name="translation_word">Arti Kata</string>
+    <string name="word_list">Daftar kata</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/values-en/strings.xml -->
+    <eat-comment />
+
+    <plurals name="search_results">
+        <item quantity="one">%1$d result for \"%2$s\": </item>
+        <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+
+    <string name="app_name">Lampung - Indonesia Dict</string>
+    <string name="menu_search">Search</string>
+    <string name="no_results">No results found for \"%s\"</string>
+    <string name="search_hint">Search the dictionary</string>
+    <string name="search_instructions">Use the search box in the Action Bar to look up a word</string>
+    <string name="search_label">Dictionary</string>
+    <string name="settings_description">Definitions of words</string>
+    <string name="trans_dialek_a">Lampung A\'s Dialek</string>
+    <string name="trans_dialek_o">Lampung O\'s Dialek</string>
+    <string name="translation_word">Translation</string>
+    <string name="word_list">Word list</string>
+
+</resources>

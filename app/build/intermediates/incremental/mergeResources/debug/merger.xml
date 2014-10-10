@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res" >
+            <file
+                name="ic_dictionary"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/drawable/ic_dictionary.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="searchable"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/xml/searchable.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="database"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/raw/database"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="definitions"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/raw/definitions.txt"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ic_menu_search"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/drawable-hdpi/ic_menu_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_search"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/drawable-mdpi/ic_menu_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="result"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/layout/result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="word"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/layout/word.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <plurals name="search_results" >
+                    <item quantity="one">
+%1$d kata ditemukan untuk \"%2$s\": 
+                    </item>
+                    <item quantity="other">
+%1$d kata ditemukan untuk \"%2$s\": 
+                    </item>
+                </plurals>
+
+                <string name="settings_description" >Arti Kata
+                </string>
+                <string name="app_name" >Lampung - Indonesia Dict
+                </string>
+                <string name="search_label" >Pencarian
+                </string>
+                <string name="no_results" >Tidak ditemukan terjemahan untuk \"%s\"
+                </string>
+                <string name="trans_dialek_a" >Bahasa Lampung Dialek A :
+                </string>
+                <string name="search_hint" >Cari terjemahan
+                </string>
+                <string name="search_instructions" >Gunakan Search Box pada Action Bar untuk memasukkan kata
+                </string>
+                <string name="word_list" >Daftar kata
+                </string>
+                <string name="translation_word" >Arti Kata
+                </string>
+                <string name="menu_search" >Pencarian
+                </string>
+                <string name="trans_dialek_o" >Bahasa Lampung Dialek O :
+                </string>
+            </file>
+            <file
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/values-en/strings.xml"
+                qualifiers="en" >
+                <string name="menu_search" >Search
+                </string>
+                <string name="trans_dialek_o" >Lampung O\'s Dialek
+                </string>
+                <string name="search_label" >Dictionary
+                </string>
+                <string name="word_list" >Word list
+                </string>
+                <string name="no_results" >No results found for \"%s\"
+                </string>
+                <string name="search_instructions" >Use the search box in the Action Bar to look up a word
+                </string>
+                <string name="app_name" >Lampung - Indonesia Dict
+                </string>
+                <string name="search_hint" >Search the dictionary
+                </string>
+                <string name="trans_dialek_a" >Lampung A\'s Dialek
+                </string>
+                <string name="settings_description" >Definitions of words
+                </string>
+
+                <plurals name="search_results" >
+                    <item quantity="one">
+%1$d result for \"%2$s\": 
+                    </item>
+                    <item quantity="other">
+%1$d results for \"%2$s\": 
+                    </item>
+                </plurals>
+
+                <string name="translation_word" >Translation
+                </string>
+            </file>
+            <file
+                name="options_menu"
+                path="/root/AndroidStudioProjects/IndoLampungDict/app/src/main/res/menu/options_menu.xml"
+                qualifiers=""
+                type="menu" />
+        </source>
+        <source path="/root/AndroidStudioProjects/IndoLampungDict/app/build/generated/res/rs/debug" />
+        <source path="/root/AndroidStudioProjects/IndoLampungDict/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/root/AndroidStudioProjects/IndoLampungDict/app/src/debug/res" />
+    </dataSet>
+
+</merger>
